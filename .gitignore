@@ -1,0 +1,5 @@
+# ignore ALL files in the directory node_modules
+node_modules/
+
+#ignore coverage reports
+coverage/
